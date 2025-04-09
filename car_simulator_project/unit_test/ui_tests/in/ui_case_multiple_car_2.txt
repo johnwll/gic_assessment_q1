@@ -1,0 +1,22 @@
+0 0
+7 4
+1
+New Car
+-1 0 N
+0 0 N
+FFRFF
+1
+New Car
+New Car 2
+0 0 N
+1 1 W
+FFRFFFF
+2
+1
+10 10
+1
+A
+9 9 N
+FFF
+2
+2

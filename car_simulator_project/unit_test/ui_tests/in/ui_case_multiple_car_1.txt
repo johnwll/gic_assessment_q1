@@ -1,0 +1,11 @@
+10 10
+1
+Nice Car A
+1 2 N
+FFRFFFFRRL
+1
+Good Car B
+7 8 W
+FFLFFFFFFF
+2
+2

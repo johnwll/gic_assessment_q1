@@ -1,0 +1,116 @@
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 33 x 27.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car A_B in x y Direction format:
+Position (33,20) is out of the field bounds.
+Please enter initial position of car A_B in x y Direction format:
+Position (30,27) is out of the field bounds.
+Please enter initial position of car A_B in x y Direction format:
+Position (33,27) is out of the field bounds.
+Please enter initial position of car A_B in x y Direction format:
+Invalid car position of x y Direction format (33 27).
+Please enter initial position of car A_B in x y Direction format:
+Invalid car position of x y Direction format (33).
+Please enter initial position of car A_B in x y Direction format:
+Invalid car position of x y Direction format (3).
+Please enter initial position of car A_B in x y Direction format:
+Invalid car position of x y Direction format (10 10 N N).
+Please enter initial position of car A_B in x y Direction format:
+X position must be an integer.
+Please enter initial position of car A_B in x y Direction format:
+Direction '10' is not valid. Valid directions are ['N', 'E', 'S', 'W'].
+Please enter initial position of car A_B in x y Direction format:
+Invalid car position of x y Direction format (1 1 S 5).
+Please enter initial position of car A_B in x y Direction format:
+Invalid car position of x y Direction format (0 0 S S).
+Please enter initial position of car A_B in x y Direction format:
+Invalid car position of x y Direction format (0 0 N N).
+Please enter initial position of car A_B in x y Direction format:
+Please enter the commands for car A_B:
+Your current list of cars are:
+- A_B, (20,20) S, RFFFRLLFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car C_D in x y Direction format:
+Position (-1,0) is out of the field bounds.
+Please enter initial position of car C_D in x y Direction format:
+Direction 'South' is not valid. Valid directions are ['N', 'E', 'S', 'W'].
+Please enter initial position of car C_D in x y Direction format:
+Direction 'SOUTH' is not valid. Valid directions are ['N', 'E', 'S', 'W'].
+Please enter initial position of car C_D in x y Direction format:
+Direction 'Direction.S' is not valid. Valid directions are ['N', 'E', 'S', 'W'].
+Please enter initial position of car C_D in x y Direction format:
+Please enter the commands for car C_D:
+Command 'G' is not valid. Valid commands are ['L', 'R', 'F'].
+Please enter the commands for car C_D:
+Command 'G' is not valid. Valid commands are ['L', 'R', 'F'].
+Please enter the commands for car C_D:
+Command 'G' is not valid. Valid commands are ['L', 'R', 'F'].
+Please enter the commands for car C_D:
+Command ' ' is not valid. Valid commands are ['L', 'R', 'F'].
+Please enter the commands for car C_D:
+Command ' ' is not valid. Valid commands are ['L', 'R', 'F'].
+Please enter the commands for car C_D:
+Command ' ' is not valid. Valid commands are ['L', 'R', 'F'].
+Please enter the commands for car C_D:
+Command ' ' is not valid. Valid commands are ['L', 'R', 'F'].
+Please enter the commands for car C_D:
+Your current list of cars are:
+- A_B, (20,20) S, RFFFRLLFFF
+- C_D, (10,17) E, RLRFFRLRLF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Car with name C_D already exists.
+Please enter the name of the car:
+Car with name A_B already exists.
+Please enter the name of the car:
+Car with name C_D already exists.
+Please enter the name of the car:
+Car with name A_B already exists.
+Please enter the name of the car:
+Please enter initial position of car A_B C_D in x y Direction format:
+Invalid car position of x y Direction format (E_F).
+Please enter initial position of car A_B C_D in x y Direction format:
+Another car is already in position (10,17).
+Please enter initial position of car A_B C_D in x y Direction format:
+Another car is already in position (10,17).
+Please enter initial position of car A_B C_D in x y Direction format:
+Another car is already in position (10,17).
+Please enter initial position of car A_B C_D in x y Direction format:
+Another car is already in position (10,17).
+Please enter initial position of car A_B C_D in x y Direction format:
+Please enter the commands for car A_B C_D:
+Your current list of cars are:
+- A_B, (20,20) S, RFFFRLLFFF
+- C_D, (10,17) E, RLRFFRLRLF
+- A_B C_D, (10,18) N, FFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- A_B, (20,20) S, RFFFRLLFFF
+- C_D, (10,17) E, RLRFFRLRLF
+- A_B C_D, (10,18) N, FFFFF
+
+After simulation, the result is:
+- A_B, (17,17) S
+- C_D, (10,14) S
+- A_B C_D, (10,23) N
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Thank you for running the simulation. Goodbye!

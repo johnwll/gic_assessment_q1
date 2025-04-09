@@ -1,0 +1,39 @@
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 10 x 10.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car Nice Car A in x y Direction format:
+Please enter the commands for car Nice Car A:
+Your current list of cars are:
+- Nice Car A, (1,2) N, FFRFFFFRRL
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car Good Car B in x y Direction format:
+Please enter the commands for car Good Car B:
+Your current list of cars are:
+- Nice Car A, (1,2) N, FFRFFFFRRL
+- Good Car B, (7,8) W, FFLFFFFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- Nice Car A, (1,2) N, FFRFFFFRRL
+- Good Car B, (7,8) W, FFLFFFFFFF
+
+After simulation, the result is:
+- Nice Car A, collides with Good Car B at (5,4) at step 7
+- Good Car B, collides with Nice Car A at (5,4) at step 7
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Thank you for running the simulation. Goodbye!

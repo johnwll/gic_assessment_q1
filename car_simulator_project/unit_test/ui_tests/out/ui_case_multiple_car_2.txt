@@ -1,0 +1,73 @@
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+Width must be greater than zero.
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 7 x 4.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car New Car in x y Direction format:
+Position (-1,0) is out of the field bounds.
+Please enter initial position of car New Car in x y Direction format:
+Please enter the commands for car New Car:
+Your current list of cars are:
+- New Car, (0,0) N, FFRFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Car with name New Car already exists.
+Please enter the name of the car:
+Please enter initial position of car New Car 2 in x y Direction format:
+Another car is already in position (0,0).
+Please enter initial position of car New Car 2 in x y Direction format:
+Please enter the commands for car New Car 2:
+Your current list of cars are:
+- New Car, (0,0) N, FFRFF
+- New Car 2, (1,1) W, FFRFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- New Car, (0,0) N, FFRFF
+- New Car 2, (1,1) W, FFRFFFF
+
+After simulation, the result is:
+- New Car, collides with New Car 2 at (0,1) at step 1
+- New Car 2, collides with New Car at (0,1) at step 1
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 10 x 10.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car A in x y Direction format:
+Please enter the commands for car A:
+Your current list of cars are:
+- A, (9,9) N, FFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- A, (9,9) N, FFF
+
+After simulation, the result is:
+- A, (9,9) N
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Thank you for running the simulation. Goodbye!

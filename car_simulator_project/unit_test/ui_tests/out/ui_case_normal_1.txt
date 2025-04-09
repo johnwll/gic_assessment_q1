@@ -1,0 +1,27 @@
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 10 x 10.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car Nice Car in x y Direction format:
+Please enter the commands for car Nice Car:
+Your current list of cars are:
+- Nice Car, (0,0) N, FFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- Nice Car, (0,0) N, FFFF
+
+After simulation, the result is:
+- Nice Car, (0,4) N
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Thank you for running the simulation. Goodbye!

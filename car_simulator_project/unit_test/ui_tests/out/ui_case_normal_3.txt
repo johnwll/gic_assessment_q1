@@ -1,0 +1,53 @@
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 8 x 8.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car A in x y Direction format:
+Please enter the commands for car A:
+Your current list of cars are:
+- A, (0,0) E, FFFFFFFFFFFFFFFRFFFFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- A, (0,0) E, FFFFFFFFFFFFFFFRFFFFFFF
+
+After simulation, the result is:
+- A, (7,0) S
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 13 x 14.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car B - CAR in x y Direction format:
+Please enter the commands for car B - CAR:
+Your current list of cars are:
+- B - CAR, (8,7) W, RFFFFFFFFLFFFFFFFLFFFFFFFFLFFFFFFFFFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- B - CAR, (8,7) W, RFFFFFFFFLFFFFFFFLFFFFFFFFLFFFFFFFFFFFF
+
+After simulation, the result is:
+- B - CAR, (12,5) E
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Thank you for running the simulation. Goodbye!

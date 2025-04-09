@@ -1,0 +1,153 @@
+Welcome to Auto Driving Car Simulation!
+
+Please enter the width and height of the simulation field in x y format:
+You have created a field of 21 x 70.
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car A in x y Direction format:
+Please enter the commands for car A:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car B in x y Direction format:
+Please enter the commands for car B:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car C in x y Direction format:
+Please enter the commands for car C:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car D in x y Direction format:
+Please enter the commands for car D:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+- D, (0,3) S, FFFFFFFFFFFFFFFFFRFLF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car E in x y Direction format:
+Please enter the commands for car E:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+- D, (0,3) S, FFFFFFFFFFFFFFFFFRFLF
+- E, (0,0) S, LLFFFFFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car F in x y Direction format:
+Please enter the commands for car F:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+- D, (0,3) S, FFFFFFFFFFFFFFFFFRFLF
+- E, (0,0) S, LLFFFFFFFF
+- F, (0,17) S, RRLLFRRRRFFLLLLFFFFFFFFRLRLRLRL
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car G in x y Direction format:
+Please enter the commands for car G:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+- D, (0,3) S, FFFFFFFFFFFFFFFFFRFLF
+- E, (0,0) S, LLFFFFFFFF
+- F, (0,17) S, RRLLFRRRRFFLLLLFFFFFFFFRLRLRLRL
+- G, (1,1) E, FFLFFFFFFFFLFFFFLRRLRFFRLL
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car H in x y Direction format:
+Please enter the commands for car H:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+- D, (0,3) S, FFFFFFFFFFFFFFFFFRFLF
+- E, (0,0) S, LLFFFFFFFF
+- F, (0,17) S, RRLLFRRRRFFLLLLFFFFFFFFRLRLRLRL
+- G, (1,1) E, FFLFFFFFFFFLFFFFLRRLRFFRLL
+- H, (20,10) W, FFFFFFFFFFFFFFFFFFFFFFFF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Please enter the name of the car:
+Please enter initial position of car I in x y Direction format:
+Position (31,32) is out of the field bounds.
+Please enter initial position of car I in x y Direction format:
+Please enter the commands for car I:
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+- D, (0,3) S, FFFFFFFFFFFFFFFFFRFLF
+- E, (0,0) S, LLFFFFFFFF
+- F, (0,17) S, RRLLFRRRRFFLLLLFFFFFFFFRLRLRLRL
+- G, (1,1) E, FFLFFFFFFFFLFFFFLRRLRFFRLL
+- H, (20,10) W, FFFFFFFFFFFFFFFFFFFFFFFF
+- I, (18,18) N, FFFFFRFRFRFRFRFRFRFRFRFRFRF
+
+Please choose from the following options:
+[1] Add a car to field
+[2] Run simulation
+Your current list of cars are:
+- A, (1,7) N, FFFLFFFFR
+- B, (0,10) E, RRLRRLRLRLRLRLRRRRRLLLLLFFFFF
+- C, (0,4) S, FFFFFFFFFFFFF
+- D, (0,3) S, FFFFFFFFFFFFFFFFFRFLF
+- E, (0,0) S, LLFFFFFFFF
+- F, (0,17) S, RRLLFRRRRFFLLLLFFFFFFFFRLRLRLRL
+- G, (1,1) E, FFLFFFFFFFFLFFFFLRRLRFFRLL
+- H, (20,10) W, FFFFFFFFFFFFFFFFFFFFFFFF
+- I, (18,18) N, FFFFFRFRFRFRFRFRFRFRFRFRFRF
+
+After simulation, the result is:
+- A, collides with B at (0,10) at step 5
+- B, collides with A at (0,10) at step 5
+- C, collides with E at (0,1) at step 3
+- D, (0,0) S
+- E, collides with C at (0,1) at step 3
+- F, collides with A,B at (0,10) at step 19
+- G, collides with A,B,F,H at (0,10) at step 22
+- H, collides with A,B,F at (0,10) at step 20
+- I, (18,22) W
+
+Please choose from the following options:
+[1] Start over
+[2] Exit
+Thank you for running the simulation. Goodbye!
