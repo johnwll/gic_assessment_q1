@@ -26,7 +26,7 @@ The sub-packages and description:
 
 ## Requirements
 
-Python version 3.13.2
+[Python version 3.13.2](https://www.python.org/downloads/release/python-3132/)
 
 To install python requirements:
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To run the car simulator:
+Run the car simulator:
 
 ```sh
 py run_simulator.py
@@ -46,7 +46,8 @@ py run_simulator.py
 ## Unit Test
 
 Unit testing is done with pytest.
-To run test script:
+
+Run test script:
 
 ```sh
 py run_tests.py
